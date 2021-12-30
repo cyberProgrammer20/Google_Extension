@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Dad Jokes",
+    "description": "This extention is used to tell us jokes using an api",
+    "version": "1.0.0",
+    "icons": {
+        "128": "icon_128.png"
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
